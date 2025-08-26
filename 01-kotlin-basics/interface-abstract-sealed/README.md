@@ -50,15 +50,17 @@ sealed class NetworkResult {
     data class Error(val exception: Exception) : NetworkResult()
 }
 
-```
-### Output
+
 val result: NetworkResult = NetworkResult.Success("Data Loaded")
 
 when (result) {
     is NetworkResult.Success -> println("Data: ${result.data}")
     is NetworkResult.Error -> println("Error: ${result.exception.message}")
 }
+```
 
+### Output
+Data: Data Loaded  
+Error: Network failure
 
-Data: Data Loaded
 
