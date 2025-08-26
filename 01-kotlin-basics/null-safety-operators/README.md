@@ -26,8 +26,9 @@ val length1 = name?.length         // null
 val length2 = name?.length ?: 0    // 0
 val length3 = name!!.length        // 💥 crash
 
+```
 
-### Output
+## Output
 
 length1: null  
 length2: 0  
