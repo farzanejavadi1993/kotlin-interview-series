@@ -25,3 +25,6 @@ fun String.removeWhitespace(): String {
 val raw = "Kotlin is awesome"
 val cleaned = raw.removeWhitespace()
 println(cleaned) // Kotlinisawesome
+```
+## Output
+Kotlinisawesome
