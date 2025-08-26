@@ -24,3 +24,7 @@ fun String?.isSafeEmpty(): Boolean {
 
 val name: String? = null
 println(name.isSafeEmpty()) // true
+```
+## Output
+true
+
