@@ -50,13 +50,16 @@ sealed class NetworkResult {
     data class Error(val exception: Exception) : NetworkResult()
 }
 
+// Example usage of sealed class
+fun main() {
+    val result: NetworkResult = NetworkResult.Success("Data Loaded")
 
-val result: NetworkResult = NetworkResult.Success("Data Loaded")
-
-when (result) {
-    is NetworkResult.Success -> println("Data: ${result.data}")
-    is NetworkResult.Error -> println("Error: ${result.exception.message}")
+    when (result) {
+        is NetworkResult.Success -> println("Data: ${result.data}")
+        is NetworkResult.Error -> println("Error: ${result.exception.message}")
+    }
 }
+
 ```
 
 ### Output
