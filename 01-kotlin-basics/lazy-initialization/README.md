@@ -30,7 +30,7 @@ fun main() {
     println("App started")
     println(config)
 }
-
+```
 ## Output
 
 App started  
