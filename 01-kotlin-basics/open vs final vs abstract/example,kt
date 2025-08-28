@@ -1,0 +1,40 @@
+open class Animal {
+    open fun speak() {
+        println("Some generic animal sound")
+    }
+}
+
+class Dog : Animal() {
+    override fun speak() {
+        println("Woof!")
+    }
+}
+
+// final by default, cannot be subclassed
+class Cat {
+    fun meow() {
+        println("Meow!")
+    }
+}
+
+// Abstract class with an abstract method
+abstract class Shape {
+    abstract fun draw()
+}
+
+class Circle : Shape() {
+    override fun draw() {
+        println("Drawing a Circle")
+    }
+}
+
+fun main() {
+    val dog = Dog()
+    dog.speak()
+
+    val cat = Cat()
+    cat.meow()
+
+    val circle = Circle()
+    circle.draw()
+}
