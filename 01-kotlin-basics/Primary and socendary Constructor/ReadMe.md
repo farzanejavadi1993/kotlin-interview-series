@@ -9,4 +9,3 @@ Kotlin classes can have:
 
 Primary constructors are concise and recommended when possible.  
 Secondary constructors give more flexibility but are rarely needed if you use default arguments and factory patterns.
-
