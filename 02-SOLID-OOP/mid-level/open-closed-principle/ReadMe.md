@@ -27,7 +27,4 @@ Here’s how I often apply this principle:
 
 ---
 
-### 🔗 Related
 
-- [Single Responsibility Principle](../single-responsibility-principle/README.md)
-- [Sealed Classes](../../kotlin-basics/sealed-class/README.md)
