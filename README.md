@@ -50,4 +50,6 @@ Simple, clean, and beginner-friendly —
 
 💛 GitHub: [farzanejavadi1993](https://github.com/farzanejavadi1993)
 
+Email:farzane.javadi1993@gmail.com
+
 ---
