@@ -28,7 +28,8 @@ Each question is written in a simple, honest tone — as if you’re speaking di
 • **Kotlin Intermediate – Part 2**  
 (Interfaces vs abstract/sealed, companion objects, singletons, anonymous objects…)
 
-• **OOP & SOLID Principles – Junior Level/Mid-Level and Senior**  
+• **OOP & SOLID Principles – Junior Level/Mid-Level and Senior**   
+Android fundamentals junior , mid-level
 What is a class/object? | What does SRP mean? | Why follow OCP? | LSP explained simply  
 Simple, clean, and beginner-friendly —  
 🟡 Intermediate and 🔴 Advanced levels coming soon!  
