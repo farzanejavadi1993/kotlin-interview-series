@@ -39,7 +39,7 @@ Each question is written in a simple, honest tone — as if you’re speaking di
 
 ⸻
 
-
+Linkedin :farzanehjavadi
 💛 GitHub: farzanejavadi1993
 📩 Email: farzane.javadi1993@gmail.com
 
