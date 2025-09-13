@@ -13,8 +13,6 @@ To refactor:
 
 This makes the codebase more modular, testable, and easier to understand.
 
----
-
 ✅ **Real-world scenario**  
 Imagine a `UserManager` class that:
 - fetches user data from API
