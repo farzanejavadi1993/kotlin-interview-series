@@ -29,7 +29,7 @@ Each question is written in a simple, honest tone — as if you’re speaking di
 	•	Android Fundamentals (Junior/Mid/Senior)
 (Activity/Fragment lifecycle, process death, SavedStateHandle, navigation, Compose side-effects…)
 
-Kotlin Coroutine Junior level, mid-level
+Kotlin Coroutine Junior level, mid-level, senior
 ⸻
 
 📦 Coming next
