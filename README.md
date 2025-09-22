@@ -17,7 +17,7 @@ Each question is written in a simple, honest tone — as if you’re speaking di
 
 ⸻
 
-📚 Topics covered so far
+📚 Topics covered
 	•	Kotlin Basics
 (val vs var, null safety, Elvis operator, smart casting…)
 	•	Kotlin Intermediate – Part 1
@@ -28,21 +28,12 @@ Each question is written in a simple, honest tone — as if you’re speaking di
 (Classes & objects, SRP, OCP, LSP…)
 	•	Android Fundamentals (Junior/Mid/Senior)
 (Activity/Fragment lifecycle, process death, SavedStateHandle, navigation, Compose side-effects…)
-
-Kotlin Coroutine Junior level, mid-level, senior
-
-new subject is coming soon
-⸻
-
-📦 Coming next
-	•	OOP & SOLID (Intermediate & Advanced)
-	•	Clean Code & Refactoring with Android examples
-	•	Compose lifecycle & side-effect handling
-	•	Advanced architecture patterns
+	•	Kotlin Coroutines (Junior/Mid/Senior)
+(Scopes, dispatchers, structured concurrency, flows, cancellation, testing…)
 
 ⸻
 
-Linkedin :farzanehjavadi
+🔗 Connect with me
+LinkedIn: farzanehjavadi
 💛 GitHub: farzanejavadi1993
 📩 Email: farzane.javadi1993@gmail.com
-
