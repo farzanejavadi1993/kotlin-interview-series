@@ -30,6 +30,7 @@ Each question is written in a simple, honest tone — as if you’re speaking di
 (Activity/Fragment lifecycle, process death, SavedStateHandle, navigation, Compose side-effects…)
 	•	Kotlin Coroutines (Junior/Mid/Senior)
 (Scopes, dispatchers, structured concurrency, flows, cancellation, testing…)
+Jetpack Compose Junior level
 
 ⸻
 
